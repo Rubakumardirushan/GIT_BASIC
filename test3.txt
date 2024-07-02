@@ -1,3 +1,0 @@
-git add ... file name
-git commit -m "comments"
-git push origin main
